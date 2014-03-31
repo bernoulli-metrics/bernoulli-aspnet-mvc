@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Joe Gasiorek</authors>
+    <owners>Joe Gasiorek</owners>
+    <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>http://bernoulll.io</projectUrl>
+    <iconUrl>https://s3.amazonaws.com/assets.heroku.com/addons.heroku.com/icons/1423/original.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Bernoulli SDK For ASP.NET MVC</description>
+    <releaseNotes>Initial Release</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags></tags>
+  </metadata>
+</package>
